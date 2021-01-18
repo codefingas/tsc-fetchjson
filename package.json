@@ -1,0 +1,11 @@
+{
+  "name": "tsc-fetchjson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codefingas/tsc-fetchjson.git",
+  "author": "codefingas <udohezekiel34@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
